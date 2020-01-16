@@ -8,8 +8,7 @@ level: 0
 region: United States
 
 
-![Oakland County OWASP](assets/images/owasp_oc.jpg | width=300)
-
+<img src="assets/images/owasp_oc.jpg" width="300" />
 ##Welcome
 
 Welcome to the Oakland County (Michigan) chapter homepage. The Chapter Leaders are <a href="mailto:bradley.mcmahon@owasp.org">Brad McMahon</a> and <a href="steven.legg@owasp.org">Steven Legg</a>.
