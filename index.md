@@ -37,11 +37,11 @@ https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 
 
 ### OWASP Oakland County Chapter Meeting ###
-**Title: Gopher's guide to the universe
-**Pressenter: Kent "@picat" Gruber
-**When:** Thursday, February 13, 2020 7PM
+**Title:** Gopher's guide to the universe <br />
+**Presenter:** Kent "@picat" Gruber <br />
+**When:** Thursday, February 13, 2020 7PM <br />
 **Where** <a href="https://www.google.com/maps/place/42%C2%B029'00.4%22N+83%C2%B015'16.2%22W/@42.483456,-83.25449,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d42.483456!4d-83.25449">1 Town Square Food and Sprits </a>
-<img src="https://secure.meetupstatic.com/photos/event/c/0/1/9/highres_482809177.jpeg" />
+<img src="https://secure.meetupstatic.com/photos/event/c/0/1/9/highres_482809177.jpeg" /> <br />
 
 <blockquote>
 Custom static analysis tools ( linters ) enable security engineers to quickly identify, share and automate the detection of common anti-patterns in source code. We'll dive into how to build our own analysis tools for Go by analyzing abstract syntax trees using the go/analysis package. Don't know what any of that means? Honestly, I didn't either a few months ago, but, it's surprisingly simple and applicable to other languages such as Python, Ruby, JavaScript, HCL, YAML, and more.
