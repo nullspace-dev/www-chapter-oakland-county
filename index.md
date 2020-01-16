@@ -8,7 +8,7 @@ level: 0
 region: United States
 
 
-![Oakland County OWASP](assets/images/owasp_oc.jpg | height=300)
+![Oakland County OWASP](assets/images/owasp_oc.jpg | width=300)
 
 ##Welcome
 
