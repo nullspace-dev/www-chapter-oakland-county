@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Oakland County
-tags: tags: participation-tag sponsorship-tag
+tags: participation-tag sponsorship-tag
 level: 0
 
 region: United States
