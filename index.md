@@ -5,40 +5,36 @@ title: OWASP Oakland County
 tags: tags: participation-tag sponsorship-tag
 level: 0
 
-region: North America 
-
-auto-migrated: 1
+region: United States
 
 
 ![Oakland County OWASP](assets/images/owasp_oc.jpg)
 
-Welcome
--------
-Welcome to the Oakland County (Michigan) chapter homepage. The Chapter Leaders are <a href="mailto:bradley.mcmahon@owasp.org">Brad McMahon</a> and < href="steven.legg@owasp.org">Steven Legg</a>.
+##Welcome
+
+Welcome to the Oakland County (Michigan) chapter homepage. The Chapter Leaders are <a href="mailto:bradley.mcmahon@owasp.org">Brad McMahon</a> and <a href="steven.legg@owasp.org">Steven Legg</a>.
 
 <hr/>
 
-Sponsers
---------
+##Sponsers
+
 We would like to thank the follow companies and orgnizations in all that they do to help us
 
 <table class="sponsors-table">
     <tr>
         <td> <a href="https://www.misec.us/"> <img src="assets/images/misec.png" alt="Misec" title="Misec"/> </a> </td>
-    </tr>
-    <tr>
         <td> <a href="https://www.teksystems.com/"> <img src="assets/images/teksystems.png" alt="TEKsystems" title="TEKsystems"/> </a> </td>
     </tr>
 </table>
 
 
-Meetings 
---------
+##Meetings 
+
 We have meetings The second Thursday of Febuary, May, August and November. 
 https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 
-Upcoming Events
---------
+##Upcoming Events
+
 
 ### OWASP Oakland County Chapter Meeting ###
 ** Title: ** Gopher's guide to the universe
