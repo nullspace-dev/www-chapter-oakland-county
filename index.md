@@ -33,12 +33,12 @@ We would like to thank the follow companies and orgnizations in all that they do
 We have meetings The second Thursday of Febuary, May, August and November. 
 https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 
-##Upcoming Events
+## Upcoming Events
 
 
 ### OWASP Oakland County Chapter Meeting ###
-** Title: ** Gopher's guide to the universe
-** Pressenter: ** Kent "@picat" Gruber
+**Title: Gopher's guide to the universe
+**Pressenter: Kent "@picat" Gruber
 **When:** Thursday, February 13, 2020 7PM
 **Where** <a href="https://www.google.com/maps/place/42%C2%B029'00.4%22N+83%C2%B015'16.2%22W/@42.483456,-83.25449,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d42.483456!4d-83.25449">1 Town Square Food and Sprits </a>
 <img src="https://secure.meetupstatic.com/photos/event/c/0/1/9/highres_482809177.jpeg" />
