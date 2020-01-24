@@ -5,7 +5,7 @@ title: OWASP Oakland County
 tags: participation-tag sponsorship-tag
 level: 0
 
-region: United States
+region: North America
 
 ---
 <img src="assets/images/owasp_oc.jpg" width="300" />
