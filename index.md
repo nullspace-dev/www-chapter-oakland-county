@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Oakland County
+title: OWASP Oakland County, MI
 tags: tags: participation-tag sponsorship-tag
 level: 0
 
