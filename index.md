@@ -1,51 +1,49 @@
 ---
 
 layout: col-sidebar
+
 title: OWASP Oakland County, MI
 tags: tags: participation-tag sponsorship-tag
+
 level: 0
 
-region: North America 
+region: North America
 
-auto-migrated: 1
+---
+<img src="assets/images/owasp_oc.jpg" width="300" />
 
+## Welcome
 
-![Oakland County OWASP](assets/images/owasp_oc.jpg)
-
-Welcome
--------
-Welcome to the Oakland County (Michigan) chapter homepage. The Chapter Leaders are <a href="mailto:bradley.mcmahon@owasp.org">Brad McMahon</a> and < href="steven.legg@owasp.org">Steven Legg</a>.
+Welcome to the Oakland County (Michigan) chapter homepage. The Chapter Leaders are <a href="mailto:bradley.mcmahon@owasp.org">Brad McMahon</a> and <a href="steven.legg@owasp.org">Steven Legg</a>.
 
 <hr/>
 
-Sponsers
---------
+## Sponsers
+
 We would like to thank the follow companies and orgnizations in all that they do to help us
 
 <table class="sponsors-table">
     <tr>
         <td> <a href="https://www.misec.us/"> <img src="assets/images/misec.png" alt="Misec" title="Misec"/> </a> </td>
-    </tr>
-    <tr>
         <td> <a href="https://www.teksystems.com/"> <img src="assets/images/teksystems.png" alt="TEKsystems" title="TEKsystems"/> </a> </td>
     </tr>
 </table>
 
 
-Meetings 
---------
+## Meetings 
+
 We have meetings The second Thursday of Febuary, May, August and November. 
 https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 
-Upcoming Events
---------
+## Upcoming Events
+
 
 ### OWASP Oakland County Chapter Meeting ###
-** Title: ** Gopher's guide to the universe
-** Pressenter: ** Kent "@picat" Gruber
-**When:** Thursday, February 13, 2020 7PM
+**Title:** Gopher's guide to the universe <br />
+**Presenter:** Kent "@picat" Gruber <br />
+**When:** Thursday, February 13, 2020 7PM <br />
 **Where** <a href="https://www.google.com/maps/place/42%C2%B029'00.4%22N+83%C2%B015'16.2%22W/@42.483456,-83.25449,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d42.483456!4d-83.25449">1 Town Square Food and Sprits </a>
-<img src="https://secure.meetupstatic.com/photos/event/c/0/1/9/highres_482809177.jpeg" />
+<img src="https://secure.meetupstatic.com/photos/event/c/0/1/9/highres_482809177.jpeg" /> <br />
 
 <blockquote>
 Custom static analysis tools ( linters ) enable security engineers to quickly identify, share and automate the detection of common anti-patterns in source code. We'll dive into how to build our own analysis tools for Go by analyzing abstract syntax trees using the go/analysis package. Don't know what any of that means? Honestly, I didn't either a few months ago, but, it's surprisingly simple and applicable to other languages such as Python, Ruby, JavaScript, HCL, YAML, and more.
