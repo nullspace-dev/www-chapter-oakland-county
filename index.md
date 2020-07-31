@@ -8,6 +8,9 @@ tags: tags: participation-tag sponsorship-tag
 level: 0
 
 region: North America
+meetup-group: OWASP-Oakland-County-Chapter
+country: USA
+postal-code: 48033
 
 ---
 <img src="assets/images/owasp_oc.jpg" width="300" />
