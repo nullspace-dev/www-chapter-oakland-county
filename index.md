@@ -17,7 +17,7 @@ postal-code: 48033
 
 ## Welcome
 
-Welcome to the Oakland County (Michigan) chapter homepage. The Chapter Leaders are <a href="mailto:bradley.mcmahon@owasp.org">Brad McMahon</a> and <a href="steven.legg@owasp.org">Steven Legg</a>.
+Welcome to the Oakland County (Michigan) chapter homepage. The Chapter Leaders are <a href="mailto:bradley.mcmahon@owasp.org">Brad McMahon</a> and <a href="mailto:steven.legg@owasp.org">Steven Legg</a>.
 
 <hr/>
 
