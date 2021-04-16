@@ -65,7 +65,6 @@ https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 **Presenter:**Jean Yang @jeanqasaur <br />
 **When:** Thursday, November 12, 2020 7PM <br />
 **Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter  
-
 <blockquote>
  Why is it so hard to figure out if a 3-line change will bring down your site?
  Where do static analysis and network tools fall short?
@@ -78,7 +77,6 @@ https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 **Presenter:*Nick Richardson <br />
 **When:** Thursday, August 13, 2020 7PM <br />
 **Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter 
-
 <blockquote>
 Nick Richardson currently leads the Endpoint Engineering Teams at Duo Security, part of Cisco. He has over 17 years of tech experience across 6 companies, with 9 of those years in management. Prior to joining Duo he was the VP of Application Development for Amrock where he helped bring technology to the Mortgage and Title industry. He has a passion for building strong teams, learning about technology, and helping develop those around him so that they can be as successful as possible. 
 </blockquote>
@@ -87,7 +85,6 @@ Nick Richardson currently leads the Endpoint Engineering Teams at Duo Security, 
 **Presenter:*James Green @greenjam94 <br />
 **When:** Thursday, April 9, 2020 7PM <br />
 **Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter 
-
 <blockquote>Join us for a beginner friendly overview of some of the most popular web vulnerabilities still relevant today. We will discuss technical details to look for, tools to use, and methods of tracking  work while exploiting the OWASP JuiceShop. Presented virtually by James Green (@greenjam94), guests may watch on our usual Southfield YouTube stream or join on Zoom to ask questions live! 
 </blockquote>
 
