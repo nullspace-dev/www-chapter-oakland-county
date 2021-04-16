@@ -62,39 +62,40 @@ https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 </blockquote>
 
 **Title:** API Tooling <br />
-**Presenter:**Jean Yang @jeanqasaur <br />
+**Presenter:** Jean Yang @jeanqasaur <br />
 **When:** Thursday, November 12, 2020 7PM <br />
 **Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter  
 
 **Title:** Getting Better: Combating Darwinism in the Tech World <br />
-**Presenter:*Nick Richardson <br />
+**Presenter:** Nick Richardson <br />
 **When:** Thursday, August 13, 2020 7PM <br />
 **Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter 
 
 **Title:** Exploiting the OWASP JuiceShop <br />
-**Presenter:*James Green @greenjam94 <br />
+**Presenter:** James Green @greenjam94 <br />
 **When:** Thursday, April 9, 2020 7PM <br />
 **Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter 
 
-**Title: ** Gopher's guide to the universe  <br />
-**Pressenter: ** Kent Gruber @picat <br />
+**Title:** Gopher's guide to the universe  <br />
+**Pressenter:** Kent Gruber @picat <br />
 **When:** Thursday, February 13, 2020 7PM Where 1 Town Square Food and Sprits
 
-**Title: ** Shifting Knowledge Left: Keeping up with Modern Application Security <br />
-**Pressenter: ** Mark Stanislav <br />
+**Title:** Shifting Knowledge Left: Keeping up with Modern Application Security <br />
+**Pressenter:** Mark Stanislav <br />
 **When:** Thursday, Novembery 14, 2019 7PM Where 1 Town Square Food and Sprits
 
-**Title: ** Lightening Talks <br />
-**Pressenter: ** Jayson Brown, Josh Turly, Josh Hentchell <br />
+**Title:** Lightening Talks <br />
+**Pressenter:** Jayson Brown, Josh Turly, Josh Hentchell <br />
 **When:** Thursday, Oct 10th, 2019 7PM Where 1 Town Square Food and Sprits
 
-**Title: ** Dynamic Taint Analysis <br />
-**Pressenter: ** Sam “tacoman” Shrum (@tacoman_x86) <br />
+**Title:** Dynamic Taint Analysis <br />
+**Pressenter:** Sam “tacoman” Shrum (@tacoman_x86) <br />
 **When:** Thursday, April 11, 2019 7PM Where 1 Town Square Food and Sprits
 
-**Title: ** Introduction to Web Application Scanning Using OWASP Zape  <br />
-**Pressenter: ** Ali Faraj <br />
+**Title:** Introduction to Web Application Scanning Using OWASP Zape  <br />
+**Pressenter:** Ali Faraj <br />
 **When:** Thursday, February 14, 2019 7PM Where 1 Town Square Food and Sprits
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
