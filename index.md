@@ -21,7 +21,7 @@ Welcome to the Oakland County (Michigan) chapter homepage. The Chapter Leaders a
 
 <hr/>
 
-## Supporters
+## Sponsers
 
 We would like to thank the follow companies and orgnizations in all that they do to help us
 
@@ -65,29 +65,36 @@ https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 **Presenter:**Jean Yang @jeanqasaur <br />
 **When:** Thursday, November 12, 2020 7PM <br />
 **Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter  
-<blockquote>
- Why is it so hard to figure out if a 3-line change will bring down your site?
- Where do static analysis and network tools fall short?
- How can dynamic API models solve our problems?
-  
-  Join Jean at our OWASP talk and learn these answers adn more
-</blockquote>
 
 **Title:** Getting Better: Combating Darwinism in the Tech World <br />
 **Presenter:*Nick Richardson <br />
 **When:** Thursday, August 13, 2020 7PM <br />
 **Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter 
-<blockquote>
-Nick Richardson currently leads the Endpoint Engineering Teams at Duo Security, part of Cisco. He has over 17 years of tech experience across 6 companies, with 9 of those years in management. Prior to joining Duo he was the VP of Application Development for Amrock where he helped bring technology to the Mortgage and Title industry. He has a passion for building strong teams, learning about technology, and helping develop those around him so that they can be as successful as possible. 
-</blockquote>
 
 **Title:** Exploiting the OWASP JuiceShop <br />
 **Presenter:*James Green @greenjam94 <br />
 **When:** Thursday, April 9, 2020 7PM <br />
 **Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter 
-<blockquote>Join us for a beginner friendly overview of some of the most popular web vulnerabilities still relevant today. We will discuss technical details to look for, tools to use, and methods of tracking  work while exploiting the OWASP JuiceShop. Presented virtually by James Green (@greenjam94), guests may watch on our usual Southfield YouTube stream or join on Zoom to ask questions live! 
-</blockquote>
 
+**Title: ** Gopher's guide to the universe  <br />
+**Pressenter: ** Kent Gruber @picat <br />
+**When:** Thursday, February 13, 2020 7PM Where 1 Town Square Food and Sprits
+
+**Title: ** Shifting Knowledge Left: Keeping up with Modern Application Security <br />
+**Pressenter: ** Mark Stanislav <br />
+**When:** Thursday, Novembery 14, 2019 7PM Where 1 Town Square Food and Sprits
+
+**Title: ** Lightening Talks <br />
+**Pressenter: ** Jayson Brown, Josh Turly, Josh Hentchell <br />
+**When:** Thursday, Oct 10th, 2019 7PM Where 1 Town Square Food and Sprits
+
+**Title: ** Dynamic Taint Analysis <br />
+**Pressenter: ** Sam “tacoman” Shrum (@tacoman_x86) <br />
+**When:** Thursday, April 11, 2019 7PM Where 1 Town Square Food and Sprits
+
+**Title: ** Introduction to Web Application Scanning Using OWASP Zape  <br />
+**Pressenter: ** Ali Faraj <br />
+**When:** Thursday, February 14, 2019 7PM Where 1 Town Square Food and Sprits
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
