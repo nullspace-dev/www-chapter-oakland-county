@@ -40,21 +40,49 @@ https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 
 ## Upcoming Events
 
-
-### OWASP Oakland County Chapter Meeting ###
-**Title:** Gopher's guide to the universe <br />
-**Presenter:** Kent "@picat" Gruber <br />
-**When:** Thursday, February 13, 2020 7PM <br />
-**Where** <a href="https://www.google.com/maps/place/42%C2%B029'00.4%22N+83%C2%B015'16.2%22W/@42.483456,-83.25449,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d42.483456!4d-83.25449">1 Town Square Food and Sprits </a>
-<img src="https://secure.meetupstatic.com/photos/event/c/0/1/9/highres_482809177.jpeg" /> <br />
+**Title:** TBA <br />
+**Presenter:**TBA <br />
+**When:** Thursday, May 13, 2021 7PM <br />
+**Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter/events/277503002/ 
 
 <blockquote>
-Custom static analysis tools ( linters ) enable security engineers to quickly identify, share and automate the detection of common anti-patterns in source code. We'll dive into how to build our own analysis tools for Go by analyzing abstract syntax trees using the go/analysis package. Don't know what any of that means? Honestly, I didn't either a few months ago, but, it's surprisingly simple and applicable to other languages such as Python, Ruby, JavaScript, HCL, YAML, and more.
 
-As usual many of us show up before 5:30pm to grab some food & drink before and socialize. All are welcome to join us anytime before the talk just look for large table meetup or ask the staff where are OWASP or Misec. The talk takes place in a meeting space of the bar so you are welcome grab a beer at the bar and bring it into the talk.
 </blockquote>
 
-**RSVP:** https://www.meetup.com/OWASP-Oakland-County-Chapter/events/267963840/
+
+## PAST Meetings
+### OWASP Oakland County Chapter Meeting ###
+**Title:** Cloudy with a chance of Malware <br />
+**Presenter:**Gavin Matthews @GavinThisThing <br />
+**When:** Thursday, February 11, 2021 7PM <br />
+**Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter  
+
+<blockquote>
+
+</blockquote>
+
+**Title:** API Tooling <br />
+**Presenter:**Jean Yang @jeanqasaur <br />
+**When:** Thursday, November 12, 2020 7PM <br />
+**Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter  
+
+<blockquote>
+ Why is it so hard to figure out if a 3-line change will bring down your site?
+ Where do static analysis and network tools fall short?
+ How can dynamic API models solve our problems?
+  
+  Join Jean at our OWASP talk and learn these answers adn more
+</blockquote>
+
+**Title:** Getting Better: Combating Darwinism in the Tech World <br />
+**Presenter:*Nick Richardson <br />
+**When:** Thursday, August 13, 2020 7PM <br />
+**Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter 
+
+<blockquote>
+Nick Richardson currently leads the Endpoint Engineering Teams at Duo Security, part of Cisco. He has over 17 years of tech experience across 6 companies, with 9 of those years in management. Prior to joining Duo he was the VP of Application Development for Amrock where he helped bring technology to the Mortgage and Title industry. He has a passion for building strong teams, learning about technology, and helping develop those around him so that they can be as successful as possible. 
+</blockquote>
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
