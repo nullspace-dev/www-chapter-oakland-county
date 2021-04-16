@@ -83,6 +83,13 @@ https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 Nick Richardson currently leads the Endpoint Engineering Teams at Duo Security, part of Cisco. He has over 17 years of tech experience across 6 companies, with 9 of those years in management. Prior to joining Duo he was the VP of Application Development for Amrock where he helped bring technology to the Mortgage and Title industry. He has a passion for building strong teams, learning about technology, and helping develop those around him so that they can be as successful as possible. 
 </blockquote>
 
+**Title:** Exploiting the OWASP JuiceShop <br />
+**Presenter:*James Green @greenjam94 <br />
+**When:** Thursday, April 9, 2020 7PM <br />
+**Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter 
+
+<blockquote>Join us for a beginner friendly overview of some of the most popular web vulnerabilities still relevant today. We will discuss technical details to look for, tools to use, and methods of tracking  work while exploiting the OWASP JuiceShop. Presented virtually by James Green (@greenjam94), guests may watch on our usual Southfield YouTube stream or join on Zoom to ask questions live! 
+</blockquote>
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
