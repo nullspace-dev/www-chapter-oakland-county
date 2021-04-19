@@ -21,7 +21,7 @@ Welcome to the Oakland County (Michigan) chapter homepage. The Chapter Leaders a
 
 <hr/>
 
-## Sponsers
+## Supporters
 
 We would like to thank the follow companies and orgnizations in all that they do to help us
 
