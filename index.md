@@ -34,8 +34,12 @@ We would like to thank the follow companies and orgnizations in all that they do
 
 
 ## Meetings 
+{% include chapter_events.html group=page.meetup-group %}
 
-We have meetings The second Thursday of Febuary, May, August and November. 
+OWASP Oakland County Chapter meetings are posted on our MeetUp Page:
+Please visit <a href="https://www.meetup.com/OWASP-Oakland-County-Chapter" target="_blank" rel="noopener noreferrer">https://www.meetup.com/OWASP-Oakland-County-Chapter</a> to sign up for event announcements and to RSVP for an event.
+
+Typically we have meetings the second Thursday of Febuary, May, August and November. 
 https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 
 ## Upcoming Events
